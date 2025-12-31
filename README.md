@@ -107,7 +107,6 @@ DebtLess was built to gain hands-on experience with:
 - Full-stack application development
 - REST API design
 - Database schema design
-- Docker and cloud deployment
 - Real-world production workflows
 
 ---
